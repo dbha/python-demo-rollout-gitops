@@ -12,4 +12,4 @@ images:
 
 resources:
 - python-demo-deploy.yaml
-- python-demo-rollout-svc.yaml
+- python-demo-rollout-service.yaml
