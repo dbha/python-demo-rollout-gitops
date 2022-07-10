@@ -14,8 +14,8 @@ spec:
         app: rollout-bluegreen
     spec:
       containers:
-      - name: rollouts-demo
-        image: rollouts-demo
+      - name: python-demo-rollout
+        image: python-demo-rollout
         #image: argoproj/rollouts-demo:green
         imagePullPolicy: Always
         env:
