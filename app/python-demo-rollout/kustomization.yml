@@ -6,7 +6,7 @@ configurations:
 - rollout-transform.yaml
 
 images:
-- digest: sha256:a6187d37a7996f40f9c17f0b91f01c82cc5fcf7112f9b334f87b80f3e53c0b5d
+- digest: sha256:e6215a4b98c55ebbcb4636388e0202f3205946c9ce1c913af93ad755c0ae2e02
   name: python-demo-rollout
   newName: harbor.shared.lab.pksdemo.net/tanzu/apps/python-demo-rollout
 
